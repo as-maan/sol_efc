@@ -6,3 +6,4 @@ jupyter_nbextensions_configurator
 matplotvideo
 descartes
 scikit-image
+qrcode

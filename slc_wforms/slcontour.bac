@@ -1,9 +1,9 @@
-SHOT    =   192967
-ARRAY   = PCC
+SHOT    =   192968
+ARRAY   = PCIU
 XMIN    =   1000.000,   XMAX    =   5000.000,   I3BCORRECT= ON
 SLICE   =      0.000,   SMOOTH  =      0.000,   POSTSMOOTH=      0.000
 BASE    =    100.000,   BTYPE   =  1
-THETASLI=      0.000,   PHISLICE=    180.000
+THETASLI=     52.847,   PHISLICE=    180.000
 STYPE   =      0.000
 COMP    = N
 YLOG    =   0
